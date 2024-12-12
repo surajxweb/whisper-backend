@@ -1,0 +1,1 @@
+databaseUri = "mongodb+srv://surajg:wEmh3IJrmsepPzg0@cluster0.mc1oq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
